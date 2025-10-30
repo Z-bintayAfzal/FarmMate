@@ -1,0 +1,42 @@
+/* Custom Scrollbar Styles for Webkit browsers (Chrome, Safari) */
+.custom-scrollbar::-webkit-scrollbar {
+    width: 8px; /* Width of the scrollbar */
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+    background: #f0f0f0; /* Light mode track color */
+    border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #cccccc; /* Light mode thumb color */
+    border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #aaaaaa; /* Light mode thumb hover color */
+}
+
+/* Dark mode scrollbar styles */
+.dark .custom-scrollbar::-webkit-scrollbar-track {
+    background: #333333; /* Dark mode track color */
+}
+
+.dark .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #555555; /* Dark mode thumb color */
+}
+
+.dark .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #777777; /* Dark mode thumb hover color */
+}
+
+/* For Firefox, you might use: */
+/* .custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #555 #333;
+} */
+
+/* You might want to add other global styles here too */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

@@ -1,7 +1,19 @@
 # 🌾 FarmMate AI - Smart Multilingual Farming Assistant
+<img width="925" height="443" alt="image" src="https://github.com/user-attachments/assets/ade45520-33fc-43e9-be4d-7ce63126c2fd" />
 
-![FarmMate AI Banner](https://images.unsplash.com/photo-1516912481808-3406841bd33c?auto=format&fit=crop&w=1600&q=80)
-*(Consider replacing this with a custom banner/logo later if you design one, or a screenshot of the app in action!)*
+*FarmMate Generate English Response:*
+<img width="926" height="439" alt="image" src="https://github.com/user-attachments/assets/11fc6dcd-660d-484e-9ad6-a6d7fbc1542a" />
+<img width="926" height="437" alt="image" src="https://github.com/user-attachments/assets/6c03f57f-c8ab-498f-9b9d-faf221be3948" />
+*FarmMate Generate Urdu Response:*
+<img width="926" height="442" alt="image" src="https://github.com/user-attachments/assets/f5763e7a-9fc0-47e7-81cd-b0ccb92f59ab" />
+*FarmMate Generate German Response:*
+<img width="929" height="440" alt="image" src="https://github.com/user-attachments/assets/601bda60-105c-4fb9-bb4e-6a210485f9d5" />
+*FarmMate Generate Italian Response:*
+<img width="924" height="433" alt="image" src="https://github.com/user-attachments/assets/6681b87c-812c-4343-b8d0-83d3c60eb0dd" />
+*FarmMate Generate French Response:*
+<img width="926" height="440" alt="image" src="https://github.com/user-attachments/assets/3b9bf061-61e0-4eeb-ad0b-07cbf6807967" />
+
+
 
 FarmMate AI is an innovative, AI-powered assistant designed to empower farmers with timely, accurate, and context-aware agricultural information. Recognizing the diverse linguistic landscape and the critical need for localized farming advice, FarmMate AI aims to bridge knowledge gaps by providing expert guidance in multiple languages through an intuitive chat and voice interface.
 

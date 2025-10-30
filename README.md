@@ -1,4 +1,6 @@
 # 🌾 FarmMate AI - Smart Multilingual Farming Assistant
+FarmMate AI is an innovative, AI-powered assistant designed to empower farmers with timely, accurate, and context-aware agricultural information. Recognizing the diverse linguistic landscape and the critical need for localized farming advice, FarmMate AI aims to bridge knowledge gaps by providing expert guidance in multiple languages through an intuitive chat and voice interface.
+
 <img width="925" height="443" alt="image" src="https://github.com/user-attachments/assets/ade45520-33fc-43e9-be4d-7ce63126c2fd" />
 
 *FarmMate Generate English Response:*
@@ -15,9 +17,7 @@
 
 
 
-FarmMate AI is an innovative, AI-powered assistant designed to empower farmers with timely, accurate, and context-aware agricultural information. Recognizing the diverse linguistic landscape and the critical need for localized farming advice, FarmMate AI aims to bridge knowledge gaps by providing expert guidance in multiple languages through an intuitive chat and voice interface.
-
-## ✨ Features
+##  Features
 
 *   **Multilingual Support:** Automatically detects the user's input language using `langdetect` (e.g., English, Urdu, with broad support for many others) and instructs the AI to respond in that language.
 *   **Voice Input (Speech-to-Text):** Speak your questions naturally, making the assistant accessible to users who prefer oral communication or have limited literacy.
@@ -26,7 +26,7 @@ FarmMate AI is an innovative, AI-powered assistant designed to empower farmers w
 *   **User-Friendly Interface:** A clean, responsive web interface for easy interaction.
 *   **Real-time Assistance:** Get quick answers to critical farming queries.
 
-## 🚀 How it Works
+##  How it Works
 
 FarmMate AI operates with a simple yet powerful two-part architecture:
 
@@ -43,7 +43,7 @@ FarmMate AI operates with a simple yet powerful two-part architecture:
     *   Communicates with the Gemini API to get the AI's response.
     *   Returns the AI's processed response to the frontend.
 
-## 🤖 AI Model & API Choice: Google Gemini API (`gemini-2.0-flash`)
+##  AI Model & API Choice: Google Gemini API (`gemini-2.0-flash`)
 
 The core intelligence of FarmMate AI is powered by the **Google Gemini API**, specifically using the `gemini-2.0-flash` model (or the latest `flash` iteration available).
 
@@ -65,7 +65,7 @@ Choosing an appropriate Large Language Model (LLM) API is critical. Here's why t
 2.  **Robust Multilingual Capabilities:** Google's deep-rooted expertise in language processing means Gemini can effectively understand queries and generate accurate, contextually relevant responses in diverse languages like Urdu, which is vital for reaching a broad farming community.
 3.  **Future-Proofing and Integration:** As part of the Google ecosystem, Gemini offers a path for future enhancements, including advanced multimodal interactions (e.g., image input for disease diagnosis, leveraging other Google Cloud services).
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Backend
 *   **Python 3.x**
@@ -82,7 +82,7 @@ Choosing an appropriate Large Language Model (LLM) API is critical. Here's why t
 *   **`axios`:** HTTP client.
 *   **Web Speech API:** Browser-native Speech-to-Text and Text-to-Speech.
 
-## ⚙️ Setup and Installation
+##  Setup and Installation
 
 Follow these steps to get FarmMate AI up and running on your local machine.
 

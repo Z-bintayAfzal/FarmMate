@@ -14,7 +14,8 @@ FarmMate AI is an innovative, AI-powered assistant designed to empower farmers w
 <img width="924" height="433" alt="image" src="https://github.com/user-attachments/assets/6681b87c-812c-4343-b8d0-83d3c60eb0dd" />
 *FarmMate Generate French Response:*
 <img width="926" height="440" alt="image" src="https://github.com/user-attachments/assets/3b9bf061-61e0-4eeb-ad0b-07cbf6807967" />
-
+*FarmMate Generate Punjabi Response:*
+<img width="924" height="440" alt="image" src="https://github.com/user-attachments/assets/183f09b1-b0a4-4e30-99aa-8bd63230623b" />
 
 
 ##  Features
@@ -180,7 +181,7 @@ Open your web browser and navigate to `http://localhost:3000` (or the port your 
 *   **CORS errors:** Ensure your backend is running, and the `allow_origins` in `main.py`'s `CORSMiddleware` allows requests from your frontend's origin (e.g., `http://localhost:3000`). For production, specify exact origins instead of `["*"]`.
 *   **Speech Recognition/Synthesis not working:** Ensure you are using a modern browser (like Google Chrome) that fully supports the Web Speech API.
 
-## 🛣️ Future Enhancements (Roadmap)
+## Future Enhancements (Roadmap)
 
 FarmMate AI is continuously evolving to provide even more comprehensive support to farmers. Here are some key areas for future development:
 
@@ -188,17 +189,5 @@ FarmMate AI is continuously evolving to provide even more comprehensive support 
     *   **Upgrade:** Integrate with real-time weather APIs (e.g., OpenWeatherMap, WeatherAPI) to fetch current and forecast weather data.
     *   **Functionality:** Suggest optimal irrigation schedules based on soil moisture levels (if sensor data is integrated), real-time weather forecasts, and specific crop requirements.
     *   **Impact:** Helps farmers optimize water usage, reduce irrigation costs, conserve water resources, and improve crop yields by preventing over or under-watering.
-
-
-
-## 🤝 Contributing
-
-We welcome contributions to FarmMate AI! If you have ideas for improvements, new features, or bug fixes, please feel free to:
-
-1.  **Fork the repository.**
-2.  **Create a new branch** (`git checkout -b feature/YourFeatureName`).
-3.  **Make your changes** and commit them (`git commit -m 'Add Your Feature'`).
-4.  **Push to your branch** (`git push origin feature/YourFeatureName`).
-5.  **Open a Pull Request** with a clear description of your changes.
 
 
